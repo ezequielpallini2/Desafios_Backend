@@ -1,0 +1,124 @@
+[
+	{
+		"id": 3001,
+		"title": "Laptop QuantumBook Z",
+		"description": "Portátil ultradelgado con procesador Ryzen 9 y 32GB de RAM",
+		"price": 1499.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "QTB001",
+		"stock": 45,
+		"oldPrice": 1699.99
+	},
+	{
+		"id": 3002,
+		"title": "Smartphone Nebula X",
+		"description": "Teléfono inteligente con pantalla plegable OLED y cámara de 108MP",
+		"price": 1099.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "NEB002",
+		"stock": 38,
+		"oldPrice": 1299.99
+	},
+	{
+		"id": 3003,
+		"title": "TV QuantumDisplay 8K",
+		"description": "Televisor LED de 65 pulgadas con resolución 8K y Quantum Dot Technology",
+		"price": 1799.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "QTV003",
+		"stock": 30,
+		"oldPrice": 1999.99
+	},
+	{
+		"id": 3004,
+		"title": "Cámara Digital ProCapture Max",
+		"description": "Cámara profesional con sensor de 36MP y grabación en 8K",
+		"price": 1899.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "CAM004",
+		"stock": 20,
+		"oldPrice": 2199.99
+	},
+	{
+		"id": 3005,
+		"title": "Auriculares Inalámbricos SonicWave",
+		"description": "Auriculares Bluetooth con cancelación de ruido avanzada y sonido de alta fidelidad",
+		"price": 179.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "SWH005",
+		"stock": 55,
+		"oldPrice": 199.99
+	},
+	{
+		"id": 3006,
+		"title": "Tablet Nexus Pro X",
+		"description": "Tableta con pantalla de 12 pulgadas y procesador de última generación",
+		"price": 399.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "NEX006",
+		"stock": 25,
+		"oldPrice": 449.99
+	},
+	{
+		"id": 3007,
+		"title": "Refrigerador FrostFree Elite",
+		"description": "Refrigerador inteligente con pantalla táctil y capacidad de 500 litros",
+		"price": 1499.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "RF008",
+		"stock": 15,
+		"oldPrice": 1699.99
+	},
+	{
+		"id": 3008,
+		"title": "Silla de Oficina ErgoLux",
+		"description": "Silla ergonómica con ajustes automáticos y soporte lumbar avanzado",
+		"price": 259.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "SLX009",
+		"stock": 28,
+		"oldPrice": 299.99
+	},
+	{
+		"id": 3009,
+		"title": "Robot Aspirador SmartClean Pro",
+		"description": "Aspiradora robótica con mapeo inteligente y función de vaciado automático",
+		"price": 349.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "RSP010",
+		"stock": 23,
+		"oldPrice": 399.99
+	},
+	{
+		"id": 3010,
+		"title": "Impresora Todo-en-Uno PrintMaster Pro",
+		"description": "Impresora multifunción con tecnología de tinta sólida y escáner de alta resolución",
+		"price": 299.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "PMP011",
+		"stock": 35,
+		"oldPrice": 349.99
+	},
+	{
+		"id": 3011,
+		"title": "Bicicleta Eléctrica TurboCharge",
+		"description": "Bicicleta de montaña con asistencia eléctrica y batería de larga duración",
+		"price": 1399.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "EBIKE012",
+		"stock": 18,
+		"oldPrice": 1599.99
+	},
+	{
+		"id": 3012,
+		"title": "Set de Ollas y Sartenes MasterChef",
+		"description": "Juego de utensilios de cocina de acero inoxidable con tecnología antiadherente",
+		"price": 129.99,
+		"thumbnail": "https://fantasyimage.com/450x300/336699/ffffff.jpg",
+		"code": "COOK013",
+		"stock": 40,
+		"oldPrice": 149.99
+	}
+]
+
+		
